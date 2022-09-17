@@ -35,7 +35,7 @@ change directory to the cloned repository and create `venv` folder as shown
 
 changing directory:
 
-    cd NURSERY_WEB_APP
+    cd MY_NURSERY_WEB_APP
 
 creating virtualenv:
 
