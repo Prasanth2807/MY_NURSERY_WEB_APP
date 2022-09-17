@@ -21,7 +21,7 @@ creating project directory  :
 
 cloning this repository  :
 
-    git clone https://github.com/jagadeesh-kethavath-23/NURSERY_WEB_APP.git
+    git clone https://github.com/Prasanth2807/MY_NURSERY_WEB_APP.git
 
 ## VIRTUAL ENVIRONMENT
 Virtual environments are independent groups of Python libraries, one for each project. Packages installed for one
@@ -47,7 +47,7 @@ if the above command wont work use this instead
 
 changing directory:
 
-    cd NURSERY_WEB_APP
+    cd MY_NURSERY_WEB_APP
     
  creating virtualenv:
 
